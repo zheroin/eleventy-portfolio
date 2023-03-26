@@ -1,7 +1,7 @@
 {
-  "name": "mxb.dev",
+  "name": "cool.dev",
   "version": "4.2.0",
-  "description": "Personal Website of Max Böck",
+  "description": "Personal Website of Once Better",
   "license": "CC BY-SA",
   "browserslist": [
     "defaults"
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/mxb"
+    "url": "http://github.com/CleanCodeCreature/mxb"
   },
-  "author": "Max Böck",
+  "author": "Once Better",
   "dependencies": {
     "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-navigation": "^0.3.5",
@@ -38,7 +38,7 @@
     "del-cli": "^3.0.1",
     "dompurify": "^2.2.6",
     "dotenv": "^8.2.0",
-    "eleventy-plugin-page-assets": "github:maxboeck/eleventy-plugin-page-assets",
+    "eleventy-plugin-page-assets": "github:CleanCodeCreature/eleventy-plugin-page-assets",
     "eleventy-plugin-share-highlight": "^0.1.4",
     "encoding": "^0.1.13",
     "focus-trap": "^5.1.0",

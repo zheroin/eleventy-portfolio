@@ -1,27 +1,27 @@
 {
-    "name": "Max Böck",
-    "email": "hello@mxb.dev",
-    "avatar": "/assets/images/avatar2.jpg",
-    "social": {
-        "twitter": {
-            "name": "mxbck",
-            "url": "https://twitter.com/mxbck"
-        },
-        "github": {
-            "name": "maxboeck",
-            "url": "https://github.com/maxboeck"
-        },
-        "mastodon": {
-            "name": "mxbck",
-            "url": "https://front-end.social/@mxbck"
-        },
-        "codepen": {
-            "name": "mxbck",
-            "url": "https://codepen.io/mxbck/"
-        },
-        "notist": {
-            "name": "mxb",
-            "url": "https://noti.st/mxb"
-        }
+  "name": "Once Better",
+  "email": "hello@mxb.dev",
+  "avatar": "/assets/images/avatar.png",
+  "social": {
+    "twitter": {
+      "name": "mxbck",
+      "url": "https://twitter.com/mxbck"
+    },
+    "github": {
+      "name": "CleanCodeCreature",
+      "url": "https://github.com/CleanCodeCreature"
+    },
+    "mastodon": {
+      "name": "mxbck",
+      "url": "https://front-end.social/@mxbck"
+    },
+    "codepen": {
+      "name": "mxbck",
+      "url": "https://codepen.io/CleanCodeCreature/"
+    },
+    "notist": {
+      "name": "mxb",
+      "url": "https://noti.st/mxb"
     }
+  }
 }
